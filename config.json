@@ -5,9 +5,9 @@
   "url": "stratum+tcp://raptorna.011data.com:3256",
   
   "_comment3": "Backup/failover stratum used in case of connection problems",
-  "url-backup": "stratum+tcps://us-west.flockpool.com:5555",
+  "url-backup": "stratum+tcp://raptorna.011data.com:3032",
 
-  "user": "RSogSt6AW1Z72sbgMxkpJie2WBnYXgnQh3.AM8",
+  "user": "RSogSt6AW1Z72sbgMxkpJie2WBnYXgnQh3.HOME",
   "pass": "x",
 
   "algo": "gr",
